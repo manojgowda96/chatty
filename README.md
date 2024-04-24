@@ -8,6 +8,7 @@ Requirements:
 2. django
 3. django-restframeworl
 4. postgres
+5. postman
 
 
 Installation:
@@ -26,3 +27,4 @@ Features:
 * Admins can CRUD on rooms.
 * Authenticated Users can join any room.
 * Authenticated Users can send & read all messages in the room.
+* All this can be done after running server and using GET,POST,PATCH and Del requests via postman where token is generated to perform actions
