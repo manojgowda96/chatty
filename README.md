@@ -1,6 +1,6 @@
 # chatty
 
-Demo:(http://http://15.207.99.63:8000/)
+Demo:(http://15.207.99.63:8000/)
 
 Requirements:
 
