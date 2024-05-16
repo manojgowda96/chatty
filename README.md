@@ -6,7 +6,7 @@ Requirements:
 
 1. Python
 2. django
-3. django-restframeworl
+3. django-restframework
 4. postgres
 5. postman
 
